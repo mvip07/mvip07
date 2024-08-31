@@ -1,5 +1,3 @@
-Here’s a creative and beautifully designed profile for you in three languages:
-
 ---
 
 ### **English:**
