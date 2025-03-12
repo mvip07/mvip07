@@ -1,112 +1,105 @@
----
+# O'zbek tili
 
-### **English:**
+## 👋 Salom! Men – Ozodov Mirabzal  
 
-👋 **Hello! I'm Ozodov Mirabzal**
+🚀 **Frontend Dasturchi**  
 
-🚀 **MERN Developer | Full-Stack Enthusiast**
+3+ yillik professional tajribaga ega bo‘lib, veb-ishlab chiqish sohasida ko‘nikmalarimni mukammallashtirdim. Shu vaqt ichida **40+ loyihani** muvaffaqiyatli yakunlab, texnologiyalar va innovatsiyalar chegaralarini kengaytirdim. Mening asosiy maqsadim – mijozlar kutganidan ham yuqori darajadagi **mukammal va dinamik veb-ilovalar yaratishdir.**  
 
-With over **2 years of professional experience**, I have honed my skills in the world of web development. I’ve successfully completed **more than 20 projects**, pushing the boundaries of technology and innovation. My passion lies in creating seamless, dynamic web applications that not only meet client expectations but exceed them.
+## **Texnik tajriba**  
+### **Frontend:**  
+🖼 **HTML, CSS3, Sass, Tailwind, Bootstrap** – Estetik jihatdan jozibali va moslashuvchan foydalanuvchi interfeyslarini yaratish.  
+🎨 **JavaScript, React.js, Redux, Next.js, ES6** – Interaktiv va yuqori unumdorlikka ega bir sahifali ilovalarni ishlab chiqish.  
 
-### **Technical Expertise:**
-- **Frontend:**
-  - 🖼 **HTML, CSS, SASS, Bootstrap** – Crafting visually stunning and responsive user interfaces.
-  - 🎨 **JavaScript, React.js** – Building interactive, high-performance single-page applications.
+### **Backend:**  
+🔧 **Node.js, Express.js, NestJS** – Ishonchli va kengaytiriladigan server ilovalarini ishlab chiqish.  
+💾 **MongoDB** – NoSQL ma’lumotlar bazalarida moslashuvchan va samarali ma’lumotlar boshqaruvi.  
+🔄 **REST API, Socket.io** – RESTful servislarni loyihalash va real vaqt rejimida ishlovchi ilovalarni yaratish.  
 
-- **Backend:**
-  - 🔧 **Node.js, Express** – Developing robust, scalable server-side applications.
-  - 💾 **MongoDB** – Managing data with NoSQL databases for flexible and efficient data storage.
-  - 🐍 **Python, Django, Django REST Framework** – Creating powerful, RESTful APIs and backend systems.
+### **Qo‘shimcha texnologiyalar:**  
+💻 **Git, GitHub** – Kodni versiyalash va o‘zgarishlarni kuzatish.  
+🎨 **Figma, BEM** – UI/UX dizayni va modulli kod yozish.  
 
-- **DevOps & Tools:**
-  - 💻 **Git** – Version control to keep track of every change.
-  - 🐳 **Docker** – Containerization for consistent development environments.
-  - ☁️ **Cloud Services** – Experience with deploying and managing applications on cloud platforms.
-  - 🔄 **RESTful APIs** – Expert in designing and integrating RESTful services.
+## **Tillar:**  
+🌍 **Ingliz tili**: O‘rta daraja (B1).  
+🌍 **O‘zbek tili**: C1 – Ona tiliga yaqin daraja.  
 
-### **Languages:**
-- 🌍 **English:** B1 level – Conversational proficiency.
-- 🌍 **Uzbek:** C1 level – Near-native fluency.
+## **Soft Skills (Shaxsiy ko‘nikmalar):**  
+🧠 **Muammolarni hal qilish** – Murakkab vaziyatlarni tahlil qilib, optimal yechimlarni topish.  
+👥 **Jamoaviy ish** – Yuksak natijalarga erishish uchun samarali jamoaviy hamkorlik.  
+🎯 **Diqqat-e’tibor** – Har bir kod qatori va dizayn elementining mukammalligini ta’minlash.  
 
-### **Soft Skills:**
-- 🧠 **Problem-Solving:** Analytical thinking to break down complex problems.
-- 👥 **Team Collaboration:** Working effectively in teams to deliver top-notch solutions.
-- 🎯 **Attention to Detail:** Ensuring every pixel and every line of code is perfect.
-
-My journey as a developer is driven by curiosity and a passion for learning. I’m always on the lookout for new challenges and opportunities to grow. Let’s create something amazing together! 🌟
+Mening dasturchilik faoliyatim **qiziquvchanlik va doimiy o‘rganishga bo‘lgan ishtiyoq** bilan harakatlanadi. Har doim yangi chaqiruvlar va rivojlanish imkoniyatlarini qidiraman.  
+Keling, birgalikda **ajoyib narsalar yarataylik!** 🌟  
 
 ---
 
-### **Russian (Русский):**
+# English
 
-👋 **Привет! Я Озодов Мирабзал**
+## 👋 Hello! I'm Ozodov Mirabzal  
 
-🚀 **MERN Разработчик | Энтузиаст Full-Stack разработки**
+🚀 **Frontend Developer**  
 
-Имея более **2 лет профессионального опыта**, я отточил свои навыки в мире веб-разработки. Я успешно завершил **более 20 проектов**, расширяя границы технологий и инноваций. Моя страсть заключается в создании безупречных, динамичных веб-приложений, которые не только соответствуют ожиданиям клиентов, но и превосходят их.
+With over **3 years of professional experience**, I have honed my skills in web development. I have successfully completed **40+ projects**, pushing the boundaries of technology and innovation. My goal is to create **dynamic and cutting-edge web applications** that not only meet but exceed client expectations.  
 
-### **Техническая Экспертиза:**
-- **Фронтенд:**
-  - 🖼 **HTML, CSS, SASS, Bootstrap** – Создание визуально потрясающих и адаптивных пользовательских интерфейсов.
-  - 🎨 **JavaScript, React.js** – Разработка интерактивных и высокопроизводительных одностраничных приложений.
+## **Technical Expertise**  
+### **Frontend:**  
+🖼 **HTML, CSS3, Sass, Tailwind, Bootstrap** – Crafting aesthetically pleasing and responsive user interfaces.  
+🎨 **JavaScript, React.js, Redux, Next.js, ES6** – Developing interactive and high-performance single-page applications.  
 
-- **Бэкенд:**
-  - 🔧 **Node.js, Express** – Разработка надежных и масштабируемых серверных приложений.
-  - 💾 **MongoDB** – Управление данными в NoSQL базах данных для гибкого и эффективного хранения данных.
-  - 🐍 **Python, Django, Django REST Framework** – Создание мощных RESTful API и бэкенд систем.
+### **Backend:**  
+🔧 **Node.js, Express.js, NestJS** – Building reliable and scalable server applications.  
+💾 **MongoDB** – Managing data efficiently in NoSQL databases.  
+🔄 **REST API, Socket.io** – Designing RESTful services and developing real-time applications.  
 
-- **DevOps & Инструменты:**
-  - 💻 **Git** – Контроль версий для отслеживания всех изменений.
-  - 🐳 **Docker** – Контейнеризация для создания согласованных сред разработки.
-  - ☁️ **Облачные Сервисы** – Опыт развертывания и управления приложениями на облачных платформах.
-  - 🔄 **RESTful API** – Эксперт в проектировании и интеграции RESTful сервисов.
+### **Additional Technologies:**  
+💻 **Git, GitHub** – Version control and tracking code changes.  
+🎨 **Figma, BEM** – UI/UX design and modular coding approach.  
 
-### **Языки:**
-- 🌍 **Английский:** Уровень B1 – Разговорный.
-- 🌍 **Узбекский:** Уровень C1 – Почти родной.
+## **Languages:**  
+🌍 **English**: Intermediate (B1).  
+🌍 **Uzbek**: C1 – Near-native proficiency.  
 
-### **Soft Skills:**
-- 🧠 **Решение Проблем:** Аналитическое мышление для решения сложных задач.
-- 👥 **Командная Работа:** Эффективная работа в команде для достижения высоких результатов.
-- 🎯 **Внимание к Деталям:** Гарантия идеальности каждого пикселя и строки кода.
+## **Soft Skills:**  
+🧠 **Problem Solving** – Analytical thinking to find optimal solutions.  
+👥 **Teamwork** – Effective collaboration for achieving high-quality results.  
+🎯 **Attention to Detail** – Ensuring perfection in every line of code and design.  
 
-Моя карьера разработчика движется любопытством и страстью к обучению. Я всегда ищу новые вызовы и возможности для роста. Давайте создадим что-то удивительное вместе! 🌟
-
----
-
-### **Uzbek (O'zbek):**
-
-👋 **Salom! Men Ozodov Mirabzal**
-
-🚀 **MERN Dasturchi | Full-Stack Ishqibozi**
-
-2 yildan ortiq professional tajribaga ega bo‘lib, men veb-dasturlash sohasidagi ko‘nikmalarimni rivojlantirdim. **20 dan ortiq loyihani** muvaffaqiyatli yakunladim va texnologiyalar va innovatsiyalarni yangi bosqichga olib chiqdim. Mening ishtiyoqim, mijozlar kutganidan yuqori darajadagi, mukammal va dinamik veb-ilovalarni yaratishga qaratilgan.
-
-### **Texnik Ekspertiza:**
-- **Frontend:**
-  - 🖼 **HTML, CSS, SASS, Bootstrap** – Vizual jihatdan go'zal va moslashuvchan foydalanuvchi interfeyslarini yaratish.
-  - 🎨 **JavaScript, React.js** – Interaktiv, yuqori samarali bir sahifali ilovalarni yaratish.
-
-- **Backend:**
-  - 🔧 **Node.js, Express** – Barqaror va kengaytiriladigan server ilovalarini ishlab chiqish.
-  - 💾 **MongoDB** – NoSQL ma'lumotlar bazalarida ma'lumotlarni moslashuvchan va samarali boshqarish.
-  - 🐍 **Python, Django, Django REST Framework** – Kuchli RESTful API va backend tizimlarni yaratish.
-
-- **DevOps va Asboblar:**
-  - 💻 **Git** – Versiyalarni boshqarish uchun har bir o‘zgarishni kuzatib borish.
-  - 🐳 **Docker** – Doimiy rivojlanish muhitlari uchun konteynerizatsiya.
-  - ☁️ **Bulut Xizmatlari** – Bulut platformalarida ilovalarni joylashtirish va boshqarish tajribasi.
-  - 🔄 **RESTful API** – RESTful xizmatlarni loyihalash va integratsiyalash bo‘yicha mutaxassis.
-
-### **Tillar:**
-- 🌍 **Ingliz Tili:** B1 darajasi – Suhbatlashuv darajasi.
-- 🌍 **O‘zbek Tili:** C1 darajasi – Ona tili darajasida.
-
-### **Soft Skills:**
-- 🧠 **Muammolarni Hal Qilish:** Murakkab muammolarni tahliliy fikrlash orqali hal qilish.
-- 👥 **Jamoaviy Ish:** Yuqori darajadagi yechimlar uchun jamoa bilan samarali ishlash.
-- 🎯 **Diqqat E’tibor:** Har bir piksel va har bir kod satrini mukammallikka yetkazish.
-
-Dasturchi sifatida mening safarim qiziqish va o‘rganish ishtiyoqi bilan davom etadi. Men har doim yangi sinovlar va o‘sish imkoniyatlarini qidirmoqdaman. Keling, birgalikda ajoyib narsalarni yarataylik! 🌟
+My development career is driven by **curiosity and a passion for learning**. I am always looking for new challenges and opportunities to grow.  
+Let's create something amazing together! 🌟  
 
 ---
+
+# Русский
+
+## 👋 Привет! Я – Озодов Мирабзал  
+
+🚀 **Frontend Разработчик**  
+
+Имея более **3 лет профессионального опыта**, я совершенствовал свои навыки в веб-разработке. Успешно завершил **40+ проектов**, расширяя границы технологий и инноваций. Моя цель – создавать **динамичные и современные веб-приложения**, которые не только соответствуют ожиданиям клиентов, но и превосходят их.  
+
+## **Техническая экспертиза**  
+### **Frontend:**  
+🖼 **HTML, CSS3, Sass, Tailwind, Bootstrap** – Создание эстетически привлекательных и адаптивных пользовательских интерфейсов.  
+🎨 **JavaScript, React.js, Redux, Next.js, ES6** – Разработка интерактивных и высокопроизводительных одностраничных приложений.  
+
+### **Backend:**  
+🔧 **Node.js, Express.js, NestJS** – Разработка надежных и масштабируемых серверных приложений.  
+💾 **MongoDB** – Гибкое и эффективное управление данными в NoSQL базах данных.  
+🔄 **REST API, Socket.io** – Проектирование RESTful сервисов и разработка real-time приложений.  
+
+### **Дополнительные технологии:**  
+💻 **Git, GitHub** – Контроль версий и отслеживание изменений в коде.  
+🎨 **Figma, BEM** – UI/UX-дизайн и модульное написание кода.  
+
+## **Языки:**  
+🌍 **Английский язык**: Средний уровень (B1).  
+🌍 **Узбекский язык**: C1 – Почти родной.  
+
+## **Soft Skills:**  
+🧠 **Решение проблем** – Аналитическое мышление для нахождения оптимальных решений.  
+👥 **Командная работа** – Эффективное сотрудничество для достижения высоких результатов.  
+🎯 **Внимание к деталям** – Стремление к идеальности в коде и дизайне.  
+
+Моя карьера в разработке движима **любознательностью и страстью к обучению**. Я всегда ищу новые вызовы и возможности для роста.  
+Давайте создадим что-то удивительное вместе! 🌟
