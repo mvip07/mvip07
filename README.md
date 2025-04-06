@@ -9,7 +9,7 @@
 ## **Texnik tajriba**  
 ### **Frontend:**  
 🖼 **HTML, CSS3, Sass, Tailwind, Bootstrap** – Estetik jihatdan jozibali va moslashuvchan foydalanuvchi interfeyslarini yaratish.  
-🎨 **JavaScript, React.js, Redux, Next.js, ES6** – Interaktiv va yuqori unumdorlikka ega bir sahifali ilovalarni ishlab chiqish.  
+🎨 **JavaScript, TypeScript, React.js, Redux, Next.js, ES6** – Interaktiv va yuqori unumdorlikka ega bir sahifali ilovalarni ishlab chiqish.  
 
 ### **Backend:**  
 🔧 **Node.js, Express.js, NestJS** – Ishonchli va kengaytiriladigan server ilovalarini ishlab chiqish.  
@@ -45,7 +45,7 @@ With over **3 years of professional experience**, I have honed my skills in web 
 ## **Technical Expertise**  
 ### **Frontend:**  
 🖼 **HTML, CSS3, Sass, Tailwind, Bootstrap** – Crafting aesthetically pleasing and responsive user interfaces.  
-🎨 **JavaScript, React.js, Redux, Next.js, ES6** – Developing interactive and high-performance single-page applications.  
+🎨 **JavaScript, TypeScript, React.js, Redux, Next.js, ES6** – Developing interactive and high-performance single-page applications.  
 
 ### **Backend:**  
 🔧 **Node.js, Express.js, NestJS** – Building reliable and scalable server applications.  
@@ -81,7 +81,7 @@ Let's create something amazing together! 🌟
 ## **Техническая экспертиза**  
 ### **Frontend:**  
 🖼 **HTML, CSS3, Sass, Tailwind, Bootstrap** – Создание эстетически привлекательных и адаптивных пользовательских интерфейсов.  
-🎨 **JavaScript, React.js, Redux, Next.js, ES6** – Разработка интерактивных и высокопроизводительных одностраничных приложений.  
+🎨 **JavaScript, TypeScript, React.js, Redux, Next.js, ES6** – Разработка интерактивных и высокопроизводительных одностраничных приложений.  
 
 ### **Backend:**  
 🔧 **Node.js, Express.js, NestJS** – Разработка надежных и масштабируемых серверных приложений.  
