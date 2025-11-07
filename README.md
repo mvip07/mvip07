@@ -4,7 +4,7 @@
 
 🚀 **Frontend Dasturchi**  
 
-3+ yillik professional tajribaga ega bo‘lib, veb-ishlab chiqish sohasida ko‘nikmalarimni mukammallashtirdim. Shu vaqt ichida **40+ loyihani** muvaffaqiyatli yakunlab, texnologiyalar va innovatsiyalar chegaralarini kengaytirdim. Mening asosiy maqsadim – mijozlar kutganidan ham yuqori darajadagi **mukammal va dinamik veb-ilovalar yaratishdir.**  
+4+ yillik professional tajribaga ega bo‘lib, veb-ishlab chiqish sohasida ko‘nikmalarimni mukammallashtirdim. Shu vaqt ichida **40+ loyihani** muvaffaqiyatli yakunlab, texnologiyalar va innovatsiyalar chegaralarini kengaytirdim. Mening asosiy maqsadim – mijozlar kutganidan ham yuqori darajadagi **mukammal va dinamik veb-ilovalar yaratishdir.**  
 
 ## **Texnik tajriba**  
 ### **Frontend:**  
@@ -40,7 +40,7 @@ Keling, birgalikda **ajoyib narsalar yarataylik!** 🌟
 
 🚀 **Frontend Developer**  
 
-With over **3 years of professional experience**, I have honed my skills in web development. I have successfully completed **40+ projects**, pushing the boundaries of technology and innovation. My goal is to create **dynamic and cutting-edge web applications** that not only meet but exceed client expectations.  
+With over **4+ years of professional experience**, I have honed my skills in web development. I have successfully completed **40+ projects**, pushing the boundaries of technology and innovation. My goal is to create **dynamic and cutting-edge web applications** that not only meet but exceed client expectations.  
 
 ## **Technical Expertise**  
 ### **Frontend:**  
@@ -76,7 +76,7 @@ Let's create something amazing together! 🌟
 
 🚀 **Frontend Разработчик**  
 
-Имея более **3 лет профессионального опыта**, я совершенствовал свои навыки в веб-разработке. Успешно завершил **40+ проектов**, расширяя границы технологий и инноваций. Моя цель – создавать **динамичные и современные веб-приложения**, которые не только соответствуют ожиданиям клиентов, но и превосходят их.  
+Имея более **4+ лет профессионального опыта**, я совершенствовал свои навыки в веб-разработке. Успешно завершил **40+ проектов**, расширяя границы технологий и инноваций. Моя цель – создавать **динамичные и современные веб-приложения**, которые не только соответствуют ожиданиям клиентов, но и превосходят их.  
 
 ## **Техническая экспертиза**  
 ### **Frontend:**  
